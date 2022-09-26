@@ -488,21 +488,29 @@ SOFTWARE.
 @angular/animations
 MIT
 
+@angular/material/table
+
 @angular/material/sidenav
+
+@angular/material/tooltip
+
+@angular/material/core
+
+@angular/material/form-field
+
+@angular/material/select
+
+@angular/material/button
+
+@angular/material/paginator
 
 @angular/material/dialog
 
 @angular/material/bottom-sheet
 
-@angular/material/button
-
 @angular/material/datepicker
 
-@angular/material/tooltip
-
 @angular/material/snack-bar
-
-@angular/material/form-field
 
 @asymmetrik/ngx-leaflet-draw
 MIT
